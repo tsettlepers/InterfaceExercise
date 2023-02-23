@@ -64,7 +64,7 @@ namespace InterfaceExercise
                 Console.WriteLine(o);   //barebones members
 
             //Is there a way to use the interfaces??  Yes, but I don't see how I can use both. And if I try "cheating" like I did in the PrintSummary method, it chirps at me.
-            IVehicle[] vehicles= {myCar, myTruck,mySUV};
+            //IVehicle[] vehicles= {myCar, myTruck,mySUV};
             //foreach (var v in vehicles)
                 //Console.WriteLine(v.PrintSummary());
 
